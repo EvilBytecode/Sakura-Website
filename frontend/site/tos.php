@@ -31,7 +31,8 @@
                 <p><strong>Modifications to the Terms</strong></p>
                 <p>We may modify these Terms at any time, and it is your responsibility to review them periodically. Continued use of Sakura after any changes indicates your acceptance of the modified Terms.</p>
             </div>
-                        <button class="go-back-btn">Go Back</button>
+                         <a href="wydhere.com" class="go-back-btn">Go Back</a>
+
 
         </div>
     </div>
