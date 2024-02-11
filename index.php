@@ -47,13 +47,19 @@
             </a>
             <div class="flex flex-[1_1_auto]">
             </div>
+            
             <div class="flex gap-2">
                 <a class="btn" href="PURCHASE LINK HERE">
                     Purchase
                 </a>
+                
                 <a class="btn" href="https://discord.com/invite/zuT8g7pb" target="_blank">
                     Visit Discord
                 </a>
+                <a class="btn" href="frontend/site/tos.php" id="tosLink">
+            Terms of Service
+        </a>
+
             </div>
         </header>
         <div
@@ -72,6 +78,7 @@
                     href="PURCHASE LINK HERE">
                     Purchase
                 </a>
+                
             </div>
             <div class="flex flex-col p-4 gap-2 rounded-lg rounded-b-[0] border-[1px] border-white/20 mt-14 w-full">
                 <span class="font-bold text-white/80">
